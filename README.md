@@ -15,7 +15,11 @@ Information about platform, Original contents, Related links can be found inside
     - Content Page: https://v448byvweu.space.minimax.io/
     - Original Paper: https://arxiv.org/pdf/2503.13657v2
     - References: https://github.com/multi-agent-systems-failure-taxonomy/MAST
-2. **Coming soon**
+
+2. [**Project Management & IT**](https://preview--project-mastery-guide.lovable.app/)
+    - Create Using: [Lovable.dev](https://lovable.dev)
+
+3. **Coming soon**
 
 ## Contributing | Sharing
 
